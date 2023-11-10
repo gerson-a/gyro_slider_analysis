@@ -23,5 +23,6 @@ Samples of bar graphs used for slider comparison and arsenal insights are below.
 
 ![est_woba comp](https://github.com/gerson-a/gyro_slider_analysis/assets/142946842/4cd40d77-34de-4e06-a667-7c859a34d9c7)
 
-<img width="562" alt="percentage thrown" src="https://github.com/gerson-a/gyro_slider_analysis/assets/142946842/37a976cb-06b9-4b30-9cce-421dec0683d9">
+<img width="560" alt="percentage thrown" src="https://github.com/gerson-a/gyro_slider_analysis/assets/142946842/98e54e1e-82ac-40fd-8f39-49449c2a5e30">
+
 
