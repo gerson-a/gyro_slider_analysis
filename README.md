@@ -7,7 +7,7 @@ A gyro slider, or gyro (as I'll refer to it for the rest of this project) is a s
 
 In this project, I used Statcast data from the 2022 and 2023 seasons to compare the effectiveness of gyros in relation to sweepers and traditional sliders and identify what role the gyro plays in a pitcher's arsenal.
 
-# Summary of Insights:
+# Summary of Insights
 - Sweepers performed best in wOBA and xwOBA, with the 50% percentile sweeper being roughly 2% more effective in each statistic. Despite the increased popularity and notiriety of the pitch, it remains the most effective slider type with regards to these core performance metrics.
     
 - Gyros and sweepers scored similarly with a roughly 31% CSW (called strikes + whiffs rate). Although the gyro has a completely different movemement profile from a sweeper, the pitch is able to beat hitters in the most important category with the same consistency. Pitchers who are unable to make effective use of sweepers should consider a gyro as a replacement in their arsenals.
