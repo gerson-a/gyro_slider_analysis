@@ -1,7 +1,7 @@
 # Portfolio Project: Slider Analysis (2022-2023)
 A comparison of various slider types thrown by pitchers across the 2022 and 2023 MLB regular seasons.
 
-# Introduction
+# Introduction 
 
 A gyro slider, or gyro (as I'll refer to it for the rest of this project) is a slider that uses large amounts of gyroscopic spin -- the spin imparted on a bullet or a football, for example -- to stabilize the flight path of the pitch. This gyroscopic spin runs perpendicular to the path of the ball as it heads towards home plate, such that little to no horizontal or vertical movement is generated. This is unlike a conventional slider, which uses sidespin (also referred to as transverse spin) to generate large horizontal movement.
 
